@@ -5,26 +5,22 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NAVANEETHPL/niyakutti) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
      </div>
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
-  
+
 ### The Hard Method
 ```js
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/oreobaby
-$ cd oreobaby
+$ git clone https://github.com/NAVANEETHPL/niyakutti
+$ cd niyakutti
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -33,8 +29,8 @@ $ node niya.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/oreobaby
-$ cd oreobaby
+$ git clone https://github.com/NAVANEETHPL/niyakutti
+$ cd niyakutti
 $ chmod +x *
 $ npm i
 $ node niya.js
